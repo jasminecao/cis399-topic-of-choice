@@ -4,7 +4,7 @@ export const animations = createAnimations({
   bouncy: {
     type: 'spring',
     damping: 10,
-    mass: 0.9,
+    mass: 0.8,
     stiffness: 100,
   },
   lazy: {
